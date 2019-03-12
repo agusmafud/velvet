@@ -1,14 +1,14 @@
 {
-  "main.css": "/velvet/static/css/main.3d2e49c9.chunk.css",
-  "main.js": "/velvet/static/js/main.f812af9a.chunk.js",
-  "main.js.map": "/velvet/static/js/main.f812af9a.chunk.js.map",
-  "runtime~main.js": "/velvet/static/js/runtime~main.87ce0b60.js",
-  "runtime~main.js.map": "/velvet/static/js/runtime~main.87ce0b60.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/velvet/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/velvet/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/velvet/index.html",
-  "precache-manifest.2b14faa183e45fa76bfbcd3eff5fa023.js": "/velvet/precache-manifest.2b14faa183e45fa76bfbcd3eff5fa023.js",
-  "service-worker.js": "/velvet/service-worker.js",
-  "static/css/main.3d2e49c9.chunk.css.map": "/velvet/static/css/main.3d2e49c9.chunk.css.map",
-  "static/media/logo.svg": "/velvet/static/media/logo.5d5d9eef.svg"
+  "main.css": "./static/css/main.3d2e49c9.chunk.css",
+  "main.js": "./static/js/main.97b78ddc.chunk.js",
+  "main.js.map": "./static/js/main.97b78ddc.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/js/2.8f71a45e.chunk.js": "./static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "./static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.4158ca8ba3a653b4b8cba32f42ecd3f3.js": "./precache-manifest.4158ca8ba3a653b4b8cba32f42ecd3f3.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/main.3d2e49c9.chunk.css.map": "./static/css/main.3d2e49c9.chunk.css.map",
+  "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
 }
