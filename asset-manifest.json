@@ -1,12 +1,17 @@
 {
-  "main.js": "./static/js/main.1e165917.chunk.js",
-  "main.js.map": "./static/js/main.1e165917.chunk.js.map",
+  "main.js": "./static/js/main.5ce3d18b.chunk.js",
+  "main.js.map": "./static/js/main.5ce3d18b.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
   "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-  "static/js/2.ca5eae6e.chunk.js": "./static/js/2.ca5eae6e.chunk.js",
-  "static/js/2.ca5eae6e.chunk.js.map": "./static/js/2.ca5eae6e.chunk.js.map",
+  "static/js/2.68fe3817.chunk.js": "./static/js/2.68fe3817.chunk.js",
+  "static/js/2.68fe3817.chunk.js.map": "./static/js/2.68fe3817.chunk.js.map",
   "index.html": "./index.html",
-  "precache-manifest.030ef3f23b2e7dc3afe5ca6dab164a62.js": "./precache-manifest.030ef3f23b2e7dc3afe5ca6dab164a62.js",
+  "precache-manifest.609448d0d51ac946654b84f75efa35a7.js": "./precache-manifest.609448d0d51ac946654b84f75efa35a7.js",
   "service-worker.js": "./service-worker.js",
+  "static/media/10.jpg": "./static/media/10.d366d2ca.jpg",
+  "static/media/carrito.svg": "./static/media/carrito.09569709.svg",
+  "static/media/facebook.svg": "./static/media/facebook.de443ebc.svg",
+  "static/media/instagram.svg": "./static/media/instagram.5b79803a.svg",
+  "static/media/logo.svg": "./static/media/logo.c08485c9.svg",
   "static/media/soon.jpeg": "./static/media/soon.0a9affef.jpeg"
 }
