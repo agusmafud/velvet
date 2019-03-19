@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0a9affef7247a8dbbd76c149f67376ee",
-    "url": "/static/media/soon.0a9affef.jpeg"
+    "revision": "c08485c985dae2f7e6db9eed1d618db6",
+    "url": "/static/media/logo.c08485c9.svg"
   },
   {
-    "revision": "7eff87fa25c167945146",
-    "url": "/static/js/main.3c2eef90.chunk.js"
+    "revision": "8acb5255807d70bf25fe",
+    "url": "/static/js/main.d6c98d84.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -20,12 +20,16 @@ self.__precacheManifest = [
     "url": "/static/media/fondo1.72b95705.png"
   },
   {
+    "revision": "0a9affef7247a8dbbd76c149f67376ee",
+    "url": "/static/media/soon.0a9affef.jpeg"
+  },
+  {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "c08485c985dae2f7e6db9eed1d618db6",
-    "url": "/static/media/logo.c08485c9.svg"
+    "revision": "6682afb827365fc315f8e34e3583c9f5",
+    "url": "/static/media/fondo2.6682afb8.png"
   },
   {
     "revision": "0956970967ca72d51f218fcd23ec60b5",
@@ -36,11 +40,11 @@ self.__precacheManifest = [
     "url": "/static/media/facebook.da308579.svg"
   },
   {
-    "revision": "d9ac422e94f441ec1e88",
-    "url": "/static/js/2.77516fd8.chunk.js"
+    "revision": "08892ed1362b67fc999e",
+    "url": "/static/js/2.d194d221.chunk.js"
   },
   {
-    "revision": "26873fdeafa342319ff7163879632656",
+    "revision": "9fe2a7eab8f14442ee79eeb67c73e2cd",
     "url": "/index.html"
   }
 ];
