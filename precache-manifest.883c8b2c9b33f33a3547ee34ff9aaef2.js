@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/incrustaciones1.2fb87b48.jpg"
   },
   {
-    "revision": "e8d718f854e06224b06b",
-    "url": "/static/js/main.bc69f94d.chunk.js"
+    "revision": "31c6aa815a35cfeebafd",
+    "url": "/static/js/main.eb6748be.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/static/js/2.7ad0eb07.chunk.js"
   },
   {
-    "revision": "888cc6e60830498b8d141706951bc3da",
+    "revision": "b4bad8c025244981220d3acab5221ad3",
     "url": "/index.html"
   }
 ];
