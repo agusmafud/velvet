@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2fb87b48a0c40fd5a879ee69c682cf08",
-    "url": "/static/media/incrustaciones1.2fb87b48.jpg"
+    "revision": "98adc8ec159a8b491611ae3c3df5801d",
+    "url": "/static/media/diamante1.98adc8ec.jpg"
   },
   {
-    "revision": "31c6aa815a35cfeebafd",
-    "url": "/static/js/main.eb6748be.chunk.js"
+    "revision": "2449ed229495392e5347",
+    "url": "/static/js/main.89bc8550.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -28,12 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/fondo2.6682afb8.png"
   },
   {
-    "revision": "d366d2ca04e780418d8468214472c380",
-    "url": "/static/media/10.d366d2ca.jpg"
-  },
-  {
-    "revision": "42ac5946195a7306e2a5",
-    "url": "/static/js/runtime~main.a8a9905a.js"
+    "revision": "2fb87b48a0c40fd5a879ee69c682cf08",
+    "url": "/static/media/incrustaciones1.2fb87b48.jpg"
   },
   {
     "revision": "91742c0d64382d88d50c3d32a82832cd",
@@ -42,6 +38,22 @@ self.__precacheManifest = [
   {
     "revision": "365027d3881304a71e93ea8ecf2e39fd",
     "url": "/static/media/polvo1.365027d3.jpg"
+  },
+  {
+    "revision": "42ac5946195a7306e2a5",
+    "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "d42b96a8c115b9e61d31ae8eb1b78537",
+    "url": "/static/media/diamante2.d42b96a8.jpg"
+  },
+  {
+    "revision": "3bf3cc04ecd360af280b4537b76e0e0a",
+    "url": "/static/media/diamante3.3bf3cc04.jpg"
+  },
+  {
+    "revision": "df7a9230a70bc8f83175b7264b366943",
+    "url": "/static/media/treschocos1.df7a9230.jpg"
   },
   {
     "revision": "0a9affef7247a8dbbd76c149f67376ee",
@@ -60,11 +72,11 @@ self.__precacheManifest = [
     "url": "/static/media/facebook.da308579.svg"
   },
   {
-    "revision": "c0a17a638b4c0ba7111f",
-    "url": "/static/js/2.7ad0eb07.chunk.js"
+    "revision": "1d3ec2a8db5e6bc7dec7",
+    "url": "/static/js/2.cfda03fc.chunk.js"
   },
   {
-    "revision": "b4bad8c025244981220d3acab5221ad3",
+    "revision": "1401cedebb5e7136ad467c08a09b8987",
     "url": "/index.html"
   }
 ];
