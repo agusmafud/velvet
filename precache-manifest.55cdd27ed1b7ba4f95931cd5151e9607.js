@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/polvo1.365027d3.jpg"
   },
   {
-    "revision": "847c23d893d2887eed9d",
-    "url": "/static/js/main.06ffe66b.chunk.js"
+    "revision": "f22b14a0ab9d672e0658",
+    "url": "/static/js/main.e85b28d9.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -68,11 +68,11 @@ self.__precacheManifest = [
     "url": "/static/media/hero2.9833ed5b.jpg"
   },
   {
-    "revision": "0b7bf108134f402142ce",
-    "url": "/static/js/2.9d21470a.chunk.js"
+    "revision": "f1110bbb25b66cd0583a",
+    "url": "/static/js/2.714f18b5.chunk.js"
   },
   {
-    "revision": "90843a6d110c907a4eede0f0a76af1b3",
+    "revision": "81cb1cb6e433b3d9f9149de9b12c0032",
     "url": "/index.html"
   }
 ];
