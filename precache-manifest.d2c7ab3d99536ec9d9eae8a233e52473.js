@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98adc8ec159a8b491611ae3c3df5801d",
-    "url": "/static/media/diamante1.98adc8ec.jpg"
+    "revision": "365027d3881304a71e93ea8ecf2e39fd",
+    "url": "/static/media/polvo1.365027d3.jpg"
   },
   {
-    "revision": "2449ed229495392e5347",
-    "url": "/static/js/main.89bc8550.chunk.js"
+    "revision": "847c23d893d2887eed9d",
+    "url": "/static/js/main.06ffe66b.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/static/media/kinder1.91742c0d.jpg"
   },
   {
-    "revision": "365027d3881304a71e93ea8ecf2e39fd",
-    "url": "/static/media/polvo1.365027d3.jpg"
-  },
-  {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "98adc8ec159a8b491611ae3c3df5801d",
+    "url": "/static/media/diamante1.98adc8ec.jpg"
   },
   {
     "revision": "d42b96a8c115b9e61d31ae8eb1b78537",
@@ -68,15 +68,11 @@ self.__precacheManifest = [
     "url": "/static/media/hero2.9833ed5b.jpg"
   },
   {
-    "revision": "da308579fbb0c0cca4035080038f15db",
-    "url": "/static/media/facebook.da308579.svg"
+    "revision": "0b7bf108134f402142ce",
+    "url": "/static/js/2.9d21470a.chunk.js"
   },
   {
-    "revision": "1d3ec2a8db5e6bc7dec7",
-    "url": "/static/js/2.cfda03fc.chunk.js"
-  },
-  {
-    "revision": "1401cedebb5e7136ad467c08a09b8987",
+    "revision": "90843a6d110c907a4eede0f0a76af1b3",
     "url": "/index.html"
   }
 ];
