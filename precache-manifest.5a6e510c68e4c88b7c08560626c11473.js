@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/diamante1.98adc8ec.jpg"
   },
   {
-    "revision": "e806513cb043cf08f91a",
-    "url": "/static/js/main.824b9225.chunk.js"
+    "revision": "023669a1ffc2afe01a7a",
+    "url": "/static/js/main.34202164.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/js/2.b68108cf.chunk.js"
   },
   {
-    "revision": "015f44ff9f11af29ca0b48f8082ab090",
+    "revision": "c51a6a9a8f5a2814c38c4d030f7658a9",
     "url": "/index.html"
   }
 ];
