@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "365027d3881304a71e93ea8ecf2e39fd",
-    "url": "/static/media/polvo1.365027d3.jpg"
+    "revision": "98adc8ec159a8b491611ae3c3df5801d",
+    "url": "/static/media/diamante1.98adc8ec.jpg"
   },
   {
-    "revision": "f22b14a0ab9d672e0658",
-    "url": "/static/js/main.e85b28d9.chunk.js"
+    "revision": "e806513cb043cf08f91a",
+    "url": "/static/js/main.824b9225.chunk.js"
   },
   {
     "revision": "ef24eb7d4f5c4b829b666578dbaee254",
@@ -14,10 +14,6 @@ self.__precacheManifest = [
   {
     "revision": "6d086c067a42ca5264e451ed94399912",
     "url": "/static/media/relleno.6d086c06.jpg"
-  },
-  {
-    "revision": "72b9570550fa6592a10f644e1f2c6e6b",
-    "url": "/static/media/fondo1.72b95705.png"
   },
   {
     "revision": "c08485c985dae2f7e6db9eed1d618db6",
@@ -36,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/kinder1.91742c0d.jpg"
   },
   {
-    "revision": "42ac5946195a7306e2a5",
-    "url": "/static/js/runtime~main.a8a9905a.js"
+    "revision": "365027d3881304a71e93ea8ecf2e39fd",
+    "url": "/static/media/polvo1.365027d3.jpg"
   },
   {
-    "revision": "98adc8ec159a8b491611ae3c3df5801d",
-    "url": "/static/media/diamante1.98adc8ec.jpg"
+    "revision": "42ac5946195a7306e2a5",
+    "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
     "revision": "d42b96a8c115b9e61d31ae8eb1b78537",
@@ -52,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/diamante3.3bf3cc04.jpg"
   },
   {
-    "revision": "df7a9230a70bc8f83175b7264b366943",
-    "url": "/static/media/treschocos1.df7a9230.jpg"
+    "revision": "f9c3036ba89944a24a485081a825aa3e",
+    "url": "/static/media/treschocos1.f9c3036b.jpg"
   },
   {
-    "revision": "0a9affef7247a8dbbd76c149f67376ee",
-    "url": "/static/media/soon.0a9affef.jpeg"
+    "revision": "bdeca92298df30f4944603a1f64212c3",
+    "url": "/static/media/treschocos2.bdeca922.jpg"
   },
   {
     "revision": "0956970967ca72d51f218fcd23ec60b5",
@@ -68,11 +64,15 @@ self.__precacheManifest = [
     "url": "/static/media/hero2.9833ed5b.jpg"
   },
   {
-    "revision": "f1110bbb25b66cd0583a",
-    "url": "/static/js/2.714f18b5.chunk.js"
+    "revision": "72b9570550fa6592a10f644e1f2c6e6b",
+    "url": "/static/media/fondo1.72b95705.png"
   },
   {
-    "revision": "81cb1cb6e433b3d9f9149de9b12c0032",
+    "revision": "83b099e3cce1964d6ae9",
+    "url": "/static/js/2.b68108cf.chunk.js"
+  },
+  {
+    "revision": "015f44ff9f11af29ca0b48f8082ab090",
     "url": "/index.html"
   }
 ];

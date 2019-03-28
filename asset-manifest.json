@@ -1,12 +1,12 @@
 {
-  "main.js": "/static/js/main.e85b28d9.chunk.js",
-  "main.js.map": "/static/js/main.e85b28d9.chunk.js.map",
+  "main.js": "/static/js/main.824b9225.chunk.js",
+  "main.js.map": "/static/js/main.824b9225.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.714f18b5.chunk.js": "/static/js/2.714f18b5.chunk.js",
-  "static/js/2.714f18b5.chunk.js.map": "/static/js/2.714f18b5.chunk.js.map",
+  "static/js/2.b68108cf.chunk.js": "/static/js/2.b68108cf.chunk.js",
+  "static/js/2.b68108cf.chunk.js.map": "/static/js/2.b68108cf.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.55cdd27ed1b7ba4f95931cd5151e9607.js": "/precache-manifest.55cdd27ed1b7ba4f95931cd5151e9607.js",
+  "precache-manifest.45b94fa860343a484e9cb63cbf848e20.js": "/precache-manifest.45b94fa860343a484e9cb63cbf848e20.js",
   "service-worker.js": "/service-worker.js",
   "static/media/carrito.svg": "/static/media/carrito.09569709.svg",
   "static/media/diamante1.jpg": "/static/media/diamante1.98adc8ec.jpg",
@@ -21,6 +21,6 @@
   "static/media/logo.svg": "/static/media/logo.c08485c9.svg",
   "static/media/polvo1.jpg": "/static/media/polvo1.365027d3.jpg",
   "static/media/relleno.jpg": "/static/media/relleno.6d086c06.jpg",
-  "static/media/soon.jpeg": "/static/media/soon.0a9affef.jpeg",
-  "static/media/treschocos1.jpg": "/static/media/treschocos1.df7a9230.jpg"
+  "static/media/treschocos1.jpg": "/static/media/treschocos1.f9c3036b.jpg",
+  "static/media/treschocos2.jpg": "/static/media/treschocos2.bdeca922.jpg"
 }
